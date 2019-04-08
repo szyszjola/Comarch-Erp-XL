@@ -1,0 +1,4 @@
+C:\Users\jolanta.szyszkiewicz.ITEGER\source\repos\Hydra\Hydra\obj\Debug\Hydra.csprojAssemblyReference.cache
+C:\Users\jolanta.szyszkiewicz.ITEGER\source\repos\Hydra\Hydra\obj\Debug\Hydra.Api.resources
+C:\Users\jolanta.szyszkiewicz.ITEGER\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.GenerateResource.cache
+C:\Users\jolanta.szyszkiewicz.ITEGER\source\repos\Hydra\Hydra\obj\Debug\Hydra.csproj.CoreCompileInputs.cache
